@@ -32,3 +32,21 @@ The goal of this project is to demonstrate how AI can be applied to build inclus
    ```bash
    git clone https://github.com/yourusername/sign-language-recognition.git
    cd sign-language-recognition
+
+
+
+---
+---
+## 📸 Demo Screenshots
+
+Below are examples of the system detecting and recognizing hand gestures in real time:
+
+### 1. Recognizing Number "5"
+![Hand showing 5 fingers](screenshots/5.png)
+
+### 2. Recognizing Letter "E" (Live Detection)
+![Hand showing letter E detected](screenshots/e.png)
+
+### 3. Reference — ASL Letter "E"
+![Reference ASL letter E](screenshots/OIP.webp)
+---
